@@ -28,6 +28,12 @@
 <a href="https://www.facebook.com/jg.roy.90?rdid=RXXL10srL0A67kDZ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F15d9tkYpJV%2F" target="blank"><img align="center" src="https://media3.giphy.com/media/pejyg6fy1JpoQuLQQp/giphy.gif" alt="F" height="30" width="40" /></a>
 </p>
 
+<a href="https://x.com/SumitPatel71259?t=USiv7xRM8smoupHrqaqjwQ&s=08" target="blank"><img align="center" src="https://media3.giphy.com/media/pejyg6fy1JpoQuLQQp/giphy.gif" alt="F" height="30" width="40" /></a>
+</p>
+
+<a href="https://x.com/SumitPatel71259?t=USiv7xRM8smoupHrqaqjwQ&s=08" target="blank"><img align="center" src="https://media3.giphy.com/media/pejyg6fy1JpoQuLQQp/giphy.gif" alt="F" height="30" width="40" /></a>
+</p>
+
 
 ## 👨‍💻 Tech Stack I am Familiar With
 
