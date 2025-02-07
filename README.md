@@ -24,7 +24,6 @@
 <a href="www.linkedin.com/in/sumit-sachapara" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/19914420/file/original-fa73e948d55a3424ad17c41c939c4059.gif" alt="https://www.linkedin.com/in/mehfooz-irfan-alam-khan-810536233/" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/sumit_sachapara_51/" target="blank"><img align="center" src="https://images.axios.com/7EaxU8ci20vJylGsMWH6-xFMCQA=/0x0:1920x1080/1920x1080/filters:no_upscale()/2020/11/17/1605611810543.gif?w=1920" alt="mehfoozkhan51" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jg.roy.90?rdid=RXXL10srL0A67kDZ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F15d9tkYpJV%2F" target="blank"><img align="center" src="https://media3.giphy.com/media/pejyg6fy1JpoQuLQQp/giphy.gif" alt="F" height="30" width="40" /></a>
-</p>
 <a href="https://x.com/SumitPatel71259?t=USiv7xRM8smoupHrqaqjwQ&s=08" target="blank"><img align="center" src="https://i.pinimg.com/originals/3a/a8/77/3aa8778a09a2c7de071f6d33aef0a02c.gif" alt="F" height="30" width="40" /></a>
 </p>
 
