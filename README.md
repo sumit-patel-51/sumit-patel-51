@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react / java script / Java**
 
-- 📄 Know about my experiences ***[(Resume Here)](https://drive.google.com/file/d/1nPydsH5DvlAsYVoVtmWWkB6gsj-mblb9/view?usp=share_link)***
+- 📄 Know about my experiences ***[(Resume Here)](https://drive.google.com/file/d/1aUxl8yRigGeMtSnSHMB32iJXXwnHkqD5/view?usp=sharing)***
 
 - 📫 How to reach me ***sumitpatel5251@gmail.com***
 
