@@ -1,4 +1,4 @@
-<img src="https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg" width="100%" height="300px" alt="non">
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="100%" alt="none">
 <h1 align="center">Hi 👋, I'm Sumit Sachapara</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
