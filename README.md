@@ -1,3 +1,4 @@
+<img src="https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg" />
 <h1 align="center">Hi 👋, I'm Sumit Sachapara</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
