@@ -62,48 +62,14 @@
    </p>
   </td>
  </tr>
- 
- 
  </table>
-
-<p align="center">
-    <a href="https://github.com/sumit-patel-51">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
-    </a>
-</p>
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mehfoozkhangithub)
  
- ![mehfoozkhangithub stats](https://github-readme-stats.vercel.app/api?username=mehfoozkhangithub&theme=dark&show_icons=true)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-patel-51&" alt="sumit-patel-51" /></p>
 
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit-patel-51&show_icons=true&locale=en&layout=compact" alt="sumit-patel-51" /></p>
+  
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-patel-51&show_icons=true&locale=en" alt="sumit-patel-51" /></p>
 
-
-
-<img  align="center" src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=juicyfresh&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
-
-<p align="center"> 
-  <img src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif?raw=true" alt="Sample signal" width="70%" height="70%" />
-</p>
-
-</div>
-<div align="center">
- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</div>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
