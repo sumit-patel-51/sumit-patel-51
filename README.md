@@ -32,13 +32,16 @@
 
 <p align="center">
 <br/>
-<img alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" />
-<img alt="CSS3" src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*Aenej4dxqEZ9j7zsI9pSnw.png" style="margin:2px;"/>
+<img alt="html5" src="https://img.shields.io/badge/html-orange?logo=html5&logoColor=white&style=for-the-badge" />
+<img alt="css" src="https://img.shields.io/badge/css-blue?logo=css3&logoColor=white&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-fff?logo=Tailwindcss&logoColor=blue&style=for-the-badge" />
 <img alt="Java" src="https://img.shields.io/badge/java-orange?logo=java&logoColor=blue&style=for-the-badge" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/spring boot-green?logo=java&logoColor=blue&style=for-the-badge" />
+<img alt="python" src="https://img.shields.io/badge/python-D1F8EF?logo=python&logoColor=blue&style=for-the-badge" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/springboot-white?logo=springboot&logoColor=blue&style=for-the-badge" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=blue&style=for-the-badge" />
+<img alt="mongodb" src="https://img.shields.io/badge/mongodb-white?logo=mongodb&logoColor=blue&style=for-the-badge" />
 <br/>
 </p>
 
@@ -47,15 +50,15 @@
 <table>
  <tr>
   <td>
-  <img src="https://raw.githubusercontent.com/silofy/hackthebox/master/static/hero.png"/>
+  <img src="https://learn.microsoft.com/en-us/shows/visual-studio-code/media/visual-studio-code-banner-image.jpg"/>
    <p>
-    Hackthebox
+    Visual Studio Code
    </p>
   </td>
   <td>
-  <img src="https://github.com/mehfoozkhangithub/Masai-Revision/blob/main/assets/Screenshot_20221209_073637.png?raw=true"/>
+  <img src="https://logodix.com/logo/732119.png"/>
     <p>
-    Cobalt 2
+   eclipse ide
    </p>
   </td>
  </tr>
@@ -64,7 +67,7 @@
  </table>
 
 <p align="center">
-    <a href="https://github.com/mehfoozkhangithub/github-readme-streak-stats">
+    <a href="https://github.com/sumit-patel-51">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
     </a>
 </p>
