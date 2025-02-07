@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumit Sachapara</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🌱 I’m currently learning **Web Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sumit-patel-51](https://github.com/sumit-patel-51)
 
 - 💬 Ask me about **react**<h1 align="center">Hi 👋, I'm Sumit Sachapara</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
