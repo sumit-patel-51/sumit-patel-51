@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react, TaiwindCSS, mongo-db, Spring Boot**
 
-- 👨‍💻 All of my projects are available at ***[click me](https://github.com/sumit-patel-51)***
+- 👨‍💻 All of my projects are available at ***[click me](https://github.com/sumit-patel-51?tab=repositories)***
 
 - 💬 Ask me about **react / java script / Java**
 
