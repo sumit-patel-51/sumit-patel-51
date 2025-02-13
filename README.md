@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react, TaiwindCSS, mongo-db, Spring Boot**
 
-- 👨‍💻 All of my projects are available at ***[click me](https://sumitsachapara-1.netlify.app/)***
+- 👨‍💻 All of my projects are available at ***[click me](https://sumitsachapara-1.netlify.app/#project)***
 
 - 💬 Ask me about **react / java script / Java**
 
